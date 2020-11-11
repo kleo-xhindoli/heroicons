@@ -1,5 +1,5 @@
 {
-  "name": "@kleo/heroicons",
+  "name": "kleo-heroicons",
   "version": "0.5.1",
   "main": "index.js",
   "license": "MIT",
