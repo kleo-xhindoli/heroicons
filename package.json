@@ -27,5 +27,8 @@
     "vue/",
     "outline/",
     "solid/"
-  ]
+  ],
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
 }
