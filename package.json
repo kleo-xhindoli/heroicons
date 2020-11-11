@@ -1,7 +1,7 @@
 {
   "name": "kleo-heroicons",
-  "version": "0.5.1",
-  "main": "index.js",
+  "version": "0.5.2",
+  "main": "build/index.js",
   "license": "MIT",
   "devDependencies": {
     "@svgr/cli": "^5.4.0",
